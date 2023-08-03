@@ -1,5 +1,7 @@
 # Cricket_Data_Analysis
 
+The Cricket Data Analysis project aims to analyze historical cricket match data to gain valuable insights and patterns. The project focuses on various metrics like batting averages, bowling strike rates, team performance, individual player statistics, and other key performance indicators to understand player strengths, team dynamics, and overall game trends. The project intends to provide valuable insights to cricket teams, coaches, fans, and analysts, enabling them to make data-driven decisions and strategies for future matches and tournaments.
+
 
 ![image](https://github.com/Shivansh-Garg/Cricket_Data_Analysis/assets/79331252/13c14597-1a37-4266-b30a-ef84335b500d)
 
